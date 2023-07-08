@@ -1,4 +1,5 @@
 // Funções geradoras
+// Yield é meio que uma pausa, toda vez que é chamado o proximo codigo é chamado
 
 function* geradora1() {
     // Código qualquer...
