@@ -13,8 +13,8 @@ if(typeof msg!== 'string') reject(new Error('ERRO')); //false
 
     setTimeout(() => {
       resolve(msg) // so pode mandar um parametro aqui
-    }, tempo)
-  })
+    }, tempo);
+  });
 }
 
 esperaAi('Conexão com o BD', rand(1, 3))
