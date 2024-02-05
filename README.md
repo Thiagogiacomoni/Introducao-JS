@@ -1,2 +1,2 @@
 # Introducao-JS
- Intrudução a JavaScript
+ Primeiros passos no aprendizado com JS
